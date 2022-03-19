@@ -8,4 +8,3 @@ ReactDOM.render(
         <App />
     </Router>,
     document.getElementById('root'));
-    console.log(process.env.REACT_APP_SANITY_PROJECT_ID)
